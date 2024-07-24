@@ -39,11 +39,15 @@ pip install cryptography
 Execute the main script:
 Copy code
 python password_manager.py
-Functionality:
+
+# Functionality:
 
 **Save Credentials:** Enter credentials and press 'Save' to encrypt and store them.
+
 **Retrieve Credentials:** Use the search feature to find stored credentials.
+
 **Generate Password:** Click 'Generate Password' for a strong, randomized password.
+
 **Add Entry:** Expand data storage by adding new entries.
 
 # Security Note:
