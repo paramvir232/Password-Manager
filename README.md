@@ -3,12 +3,12 @@
 This Python application is a password manager GUI built using Tkinter, designed to securely store and manage credentials for various online accounts. It offers encryption for data security and includes features for password generation, credential storage, and retrieval.
 
 ## Features
-Secure Storage: Encrypts and stores credentials in a JSON file using a specified encryption key.
-Password Generation: Generates strong, randomized passwords for enhanced security.
-Credential Retrieval: Easily retrieve stored credentials by searching for a website or specific key.
-Add Entry: Allows for adding new entries to expand data storage.
-Security Measures: Limits search attempts to five with correct encryption key; GUI blocks access after unsuccessful attempts.
-Exception Handling: Robust error handling to prevent crashes and ensure smooth operation.
+**Secure Storage:** Encrypts and stores credentials in a JSON file using a specified encryption key.
+**Password Generation:** Generates strong, randomized passwords for enhanced security.
+**Credential Retrieval:** Easily retrieve stored credentials by searching for a website or specific key.
+**Add Entry:** Allows for adding new entries to expand data storage.
+**Security Measures:** Limits search attempts to five with correct encryption key; GUI blocks access after unsuccessful attempts.
+**Exception Handling:** Robust error handling to prevent crashes and ensure smooth operation.
 
 ## Usage
 **Installation:**
